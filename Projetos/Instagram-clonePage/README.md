@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto final curso de HTML e CSS Básico, usando FlexBox!
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse é o projeto da aula de Flexbox, foi feito a interface de login do Instagram! 
 
 ### Os requisitos são:
 
