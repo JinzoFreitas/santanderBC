@@ -1,6 +1,6 @@
-# Projeto final curso de HTML e CSS Básico, usando FlexBox!
+# Desafio-Projeto curso de HTML e CSS Básico, usando FlexBox!
 
-Esse é o projeto da aula de Flexbox, foi feito a interface de login do Instagram! 
+Esse é o projeto da aula de Flexbox, foi clonado a interface de login do Instagram! 
 
 ### Os requisitos são:
 
