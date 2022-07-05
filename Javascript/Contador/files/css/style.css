@@ -9,7 +9,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(177, 225, 255);
+    background-color: rgb(139, 225, 225);
 }
 
 button {
@@ -32,5 +32,5 @@ button {
     display: flex;
     align-items: center;
     margin: 0 20px;
-    font-size: 16pt;
+    font-size: 20pt;
 }
